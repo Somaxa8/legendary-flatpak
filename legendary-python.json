@@ -32,8 +32,8 @@
         },
         {
             "type": "file",
-            "url": "https://files.pythonhosted.org/packages/a8/9d/45a3172d1e35191307b524a10189c9fc9c2ed3d5b82cb3a00113bb74e7fc/legendary_gl-0.20.25-py3-none-any.whl",
-            "sha256": "fdaf4d5c0d503fccf8b8e19fe984444323ee8c680280042b9c8067a7d72c4a5e"
+            "url": "https://files.pythonhosted.org/packages/53/35/a6476329d6d9109f7d067424b84ae19ba886ffd530e689254cf488bae1cd/legendary_gl-0.20.28.post2-py3-none-any.whl",
+            "sha256": "72ae76e234f4894b714e984f45e54e59574f2d4521bd98aef5ddb911f10f512c"
         }
     ]
 }
